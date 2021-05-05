@@ -18,3 +18,4 @@ handleChange = id => {
       })
     }
 
+text area is a self closing element (eg. <textarea />)
